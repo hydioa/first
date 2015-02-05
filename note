@@ -1,0 +1,8 @@
+
+git clone https://***/first.git
+git add note
+git commit -m "commnets"
+go build first.go
+./first
+
+go run first.go

@@ -1,7 +1,10 @@
-
+http://www.bootcss.com/p/git-guide/
 git clone https://***/first.git
 git add note
 git commit -m "commnets"
+git push  origin master
+git pull
+
 go build first.go
 ./first
 
